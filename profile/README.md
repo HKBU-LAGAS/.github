@@ -1,12 +1,3 @@
 ## Hi there 👋
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ This is the Large-Scale Graph Data Science (LAGAS) Group
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+The Large-Scale Graph Data Science (LAGAS) Group is a team of researchers focused on exploring the vast and complex world of graph data science. With a growing interest in graph analytics and machine learning, the group is dedicated to designing and implementing scalable algorithms and tools to analyze large-scale graphs. Their research encompasses a broad range of applications, including social network analysis, recommendation systems, and bioinformatics. Through their work, the group aims to advance the field of graph data science and help solve real-world problems using cutting-edge technology.
